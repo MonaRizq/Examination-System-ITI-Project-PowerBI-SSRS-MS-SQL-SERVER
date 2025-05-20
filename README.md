@@ -2,7 +2,7 @@
 A comprehensive Examination System project developed as part of ITI training, featuring reporting and analytics using Power BI, SSRS (SQL Server Reporting Services), and backend data management with MS SQL Server.
 
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **MS SQL Server**: Database design, stored procedures, and data queries.
 - **SSRS**: Server-side reporting with parameterized reports.
@@ -18,7 +18,7 @@ A comprehensive Examination System project developed as part of ITI training, fe
  - Power BI Data Modeling to structure and transform data, enabling enhanced reporting and analysis.
  - Interactive Power BI Dashboards for powerful visualizations and intuitive decision-making.
 
-## ⚙️ Features
+## Features
 - Student, course, and exam management with relational data.
 - Automated reporting of exam results and performance analysis.
 - Interactive Power BI dashboards to monitor student progress.
