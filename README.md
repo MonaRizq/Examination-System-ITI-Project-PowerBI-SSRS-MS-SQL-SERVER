@@ -10,13 +10,13 @@ A comprehensive Examination System project developed as part of ITI training, fe
 - **Power BI**: Interactive dashboards and visual analytics.
 
 ## Component
- 🔹 Database & Schema Design using SQL Server for data handling.
- 🔹 Entity-Relationship Diagram (ERD) to ensure clear and structured data relationships
- 🔹 Full CRUD operations to manage students, exams, questions, and more seamlessly.
- 🔹 Stored Procedures to automate exam generation, grading processes, and enhance system performance.
- 🔹 SSRS Reports delivering detailed performance analytics and actionable insights.
- 🔹 Power BI Data Modeling to structure and transform data, enabling enhanced reporting and analysis.
- 🔹 Interactive Power BI Dashboards for powerful visualizations and intuitive decision-making.
+ -🔹 Database & Schema Design using SQL Server for data handling.
+ -🔹 Entity-Relationship Diagram (ERD) to ensure clear and structured data relationships
+ -🔹 Full CRUD operations to manage students, exams, questions, and more seamlessly.
+ -🔹 Stored Procedures to automate exam generation, grading processes, and enhance system performance.
+ -🔹 SSRS Reports delivering detailed performance analytics and actionable insights.
+ -🔹 Power BI Data Modeling to structure and transform data, enabling enhanced reporting and analysis.
+ -🔹 Interactive Power BI Dashboards for powerful visualizations and intuitive decision-making.
 
 ## ⚙️ Features
 - Student, course, and exam management with relational data.
